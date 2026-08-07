@@ -44,9 +44,9 @@
 ## 🚩 CTF & HACKATHON
 
 - 📜 **2026 세종 CTF 참가** (2026.4)
-- 🌊 **2026 HACKSIUM BUSAN** (2026.08)
-- 🔑 **2026 KISIA CTF** (2026.8)
-- 🏛️ **2026 광운대학교 CHIC HACKATHON** (2026.8)
+- 🌊 **2026 HACKSIUM BUSAN 참가** (2026.08)
+- 🔑 **2026 KISIA CTF 참가** (2026.8)
+- 🏛️ **2026 광운대학교 CHIC HACKATHON 참가** (2026.8)
 
 
 ---
