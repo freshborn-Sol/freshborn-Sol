@@ -1,14 +1,12 @@
-# Hi, I'm Hansol Ryu 👋
+# Hansol Ryu 
 
 Cybersecurity student interested in **system security, web security, vulnerability analysis, and AI-assisted security automation**.
 
 ## About Me
 
-* 🎓 Studying Information Convergence at Kwangwoon University
-* 🛡️ WhiteHat School 4th Cohort
-* 🔍 Interested in vulnerability analysis and penetration testing
-* 🚩 Learning security through CTF challenges and hands-on labs
-* 🤖 Working on AI-assisted vulnerability analysis projects
+* 🎓 Studying Information Convergence at Kwangwoon University(2026.3~)
+* 🐈‍⬛ Kwangwoon University Information Security Club BlackCat, 9th Generation(2026.3~)
+* 🛡️ WhiteHat School 4th(2026.6~)
 
 ## Experience & Activities
 
