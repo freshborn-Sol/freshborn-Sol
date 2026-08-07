@@ -38,7 +38,7 @@
 
 ## 🎓 Experience & Activities
 
-- **2026 광운대학교 H.O.P.E Project 대상**
+- **2026 광운대학교 H.O.P.E Project 대상** (2026.7)
 
 
 ---
