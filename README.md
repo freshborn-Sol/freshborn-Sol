@@ -55,4 +55,4 @@
 ## 📫 Contact & Links
 
 - 🎓 **School:** Kwangwoon University
-- 📧 **Email:** [sol906sol906@kw.ac.kr](mailto:sol906sol906@kw.ac.kr) / [sol906sol906@naver.com](mailto:sol906sol906@naver.com)
+- 📧 **Email:** [sol906sol906@kw.ac.kr] / [sol906sol906@naver.com]
