@@ -41,18 +41,17 @@
 - 🥇 [**2026 광운대학교 H.O.P.E Project 대상**](https://github.com/haveadooday/KW_Hope_Project) (2026.07)
 ---
 
-## 🚩 CTF & Security Activities
+## 🚩 CTF & HACKATHON
 
-- 🚩 **반대항전 CTF 참가** (2026)
-- 🐈‍⬛ **BlackCat Security Study & CTF Activities** (2026.03–Present)
-- 💻 **pwnable.tw Binary Exploitation Practice** (2026–Present)
-- 🔍 **System Hacking & Web Security Labs** (2026–Present)
+- 📜 **2026 세종 CTF 참가** (2026.4)
+- 🌊 **2026 HACKSIUM BUSAN** (2026.08)
+- 🔑 **2026 KISIA CTF** (2026.8)
+- 🏛️ **2026 광운대학교 CHIC HACKATHON** (2026.8)
 
----
 
 ---
 
 ## 📫 Contact & Links
 
 - 🎓 **School:** Kwangwoon University
-- 📧 **Email** : sol906sol906@naver.com / sol906sol906@kw.ac.kr
+- 📧 **Email** : sol906sol906@kw.ac.kr / sol906sol906@naver.com 
