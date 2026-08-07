@@ -3,7 +3,7 @@
 Cybersecurity student interested in **system security, web security, vulnerability analysis, and AI-assisted security automation**.
 
 ## About Me
-* 🏫 the 87th graduating class of Gimcheon High School
+* 🏫 the 87th graduating class of Gimcheon High School(2020~2022)
 * 🎓 Studying Information Convergence at Kwangwoon University(2026.3~)
 * 🐈‍⬛ Kwangwoon University Information Security Club BlackCat, 9th Generation(2026.3~)
 * 🛡️ WhiteHat School 4th(2026.6~)
