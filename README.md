@@ -36,12 +36,19 @@
 
 ---
 
-## 🎓 Experience & Activities
+## 🏆 Awards & Achievements
 
-- **2026 광운대학교 H.O.P.E Project 대상** (2026.7)
+- 🥇 [**2026 광운대학교 H.O.P.E Project 대상**](https://github.com/haveadooday/KW_Hope_Project) (2026.07)
+---
 
+## 🚩 CTF & Security Activities
 
+- 🚩 **반대항전 CTF 참가** (2026)
+- 🐈‍⬛ **BlackCat Security Study & CTF Activities** (2026.03–Present)
+- 💻 **pwnable.tw Binary Exploitation Practice** (2026–Present)
+- 🔍 **System Hacking & Web Security Labs** (2026–Present)
 
+---
 
 ---
 
