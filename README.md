@@ -4,7 +4,7 @@
 
 * ## 🛡️ About Me
 
-- 🏫 **Gimcheon High School | 87th Graduating Class** (2020–2022)
+- 🏫 **Gimcheon High School | 87th Graduating Class** 
 - 🎓 **Kwangwoon University | Information Convergence** (2026.03–Present)
 - 🐈‍⬛ **BlackCat | Kwangwoon University Information Security Club, 9th Generation** (2026.03–Present)
 - 🛡️ **WhiteHat School 4th Cohort** (2026.06–Present)
@@ -41,54 +41,7 @@
 - **2026 광운대학교 H.O.P.E Project 대상** (2026.7)
 
 
----
 
-## 🚀 Featured Projects
-
-### 🛡️ [WhiteHat School 4th](https://github.com/freshborn-Sol/WHS4)
-
-화이트햇스쿨에서 수행한 보안 과제, 취약점 분석 및 실습 기록입니다.
-
-- System Hacking
-- Web Hacking
-- Cloud & Container Security
-- Vulnerability Analysis
-
-### 🌱 [H.O.P.E Project](https://github.com/freshborn-Sol/KW-HOPE_Project)
-
-광운대학교 H.O.P.E 프로그램에서 수행한 팀 프로젝트입니다.
-
-- Team-based project
-- Research and implementation
-- Project presentation and documentation
-
-### 🤖 AI-based Security Project
-
-AI 에이전트와 로컬 LLM을 활용하여 취약점을 분석하고 검증하는 프로젝트입니다.
-
-- On-premise LLM deployment
-- Multi-agent vulnerability analysis
-- Evidence-based validation
-- False-positive reduction
-
-### 🚩 CTF & Security Study
-
-시스템 해킹과 웹 해킹 문제를 분석하며 취약점 발생 원리와 공격 과정을 학습하고 있습니다.
-
-- Binary exploitation
-- Reverse engineering
-- Web vulnerability analysis
-- Exploit development
-
----
-
-## 📚 Currently Studying
-
-- System Hacking & Binary Exploitation
-- Web Vulnerability Analysis
-- Reverse Engineering
-- AI-assisted Vulnerability Analysis
-- Cloud & Container Security
 
 ---
 
