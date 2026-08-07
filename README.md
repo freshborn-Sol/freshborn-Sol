@@ -95,4 +95,4 @@ AI 에이전트와 로컬 LLM을 활용하여 취약점을 분석하고 검증�
 ## 📫 Contact & Links
 
 - 🎓 **School:** Kwangwoon University
-- 🐙 **GitHub:** [@freshborn-Sol](https://github.com/freshborn-Sol)
+- 📧 **Email** : sol906sol906@naver.com / sol906sol906@kw.ac.kr
