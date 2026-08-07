@@ -2,12 +2,13 @@
 
 ---
 
-* ## 🛡️ About Me
+## 🛡️ About Me
 
-- 🏫 **Gimcheon High School | 87th Graduating Class** 
+- 🏫 **Gimcheon High School | 87th Graduating Class**
 - 🎓 **Kwangwoon University | Information Convergence** (2026.03–Present)
-- 🐈‍⬛ **BlackCat | Kwangwoon University Information Security Club, 9th Generation** (2026.03–Present)
+- 🐈‍⬛ **BlackCat | Kwangwoon University Information Security Club, 9th Cohort** (2026.03–Present)
 - 🛡️ **WhiteHat School 4th Cohort** (2026.06–Present)
+
 ---
 
 ## 🧰 Tech Toolbox
@@ -39,19 +40,19 @@
 ## 🏆 Awards & Achievements
 
 - 🥇 [**2026 광운대학교 H.O.P.E Project 대상**](https://github.com/haveadooday/KW_Hope_Project) (2026.07)
+
 ---
 
-## 🚩 CTF & HACKATHON
+## 🚩 CTF & Hackathons
 
-- 📜 **2026 세종 CTF 참가** (2026.4)
+- 📜 **2026 세종 CTF 참가** (2026.04)
 - 🌊 **2026 HACKSIUM BUSAN 참가** (2026.08)
-- 🔑 **2026 KISIA CTF 참가** (2026.8)
-- 🏛️ **2026 광운대학교 CHIC HACKATHON 참가** (2026.8)
-
+- 🔑 **2026 KISIA CTF 참가** (2026.08)
+- 🏛️ **2026 광운대학교 CHIC Hackathon 참가** (2026.08)
 
 ---
 
 ## 📫 Contact & Links
 
 - 🎓 **School:** Kwangwoon University
-- 📧 **Email** : sol906sol906@kw.ac.kr / sol906sol906@naver.com 
+- 📧 **Email:** [sol906sol906@kw.ac.kr](mailto:sol906sol906@kw.ac.kr)
