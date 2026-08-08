@@ -43,10 +43,10 @@
 
 ---
 
-## 🚩 CTF & Hackathons
+## 🚩 CTF & Hackathons Experiecnce
 
 - 📜 **2026 세종 CTF 참가** (2026.04)
-- 🌊 **2026 HACKSIUM BUSAN 참가 예정** (2026.08)
+- 🌊 **2026 HACKSIUM BUSAN 참가** (2026.08)
 - 🔑 **2026 KISIA CTF 참가 예정** (2026.08)
 - 🏛️ **2026 광운대학교 CHIC Hackathon 참가 예정** (2026.08)
 
