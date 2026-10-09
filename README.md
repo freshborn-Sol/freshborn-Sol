@@ -23,7 +23,6 @@
 ### 🔍 Security & Analysis
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GDB](https://img.shields.io/badge/GDB-2C2255?style=flat-square&logo=gnu&logoColor=white)
 ![pwntools](https://img.shields.io/badge/pwntools-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-5C2D91?style=flat-square)
