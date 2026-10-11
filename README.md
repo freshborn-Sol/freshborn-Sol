@@ -44,11 +44,11 @@
 
 ## 🚩 CTF & Hackathons Experiecnce
 
-- 📜 **2026 세종 CTF 참가** (2026.04)
-- 🌊 **2026 HACKSIUM BUSAN 참가** (2026.08)
-- 🔑 **2026 KISIA CTF 참가** (2026.08)
-- 🏛️ **2026 광운대학교 CHIC Hackathon 참가** (2026.08)
-- 🏙️ **2026 KW 해커톤 참가** (2026.10)
+- 📜 **2026 Sejong CTF** (2026.04)
+- 🌊 **2026 HACKSIUM BUSAN** (2026.08)
+- 🔑 **2026 KISIA CTF** (2026.08)
+- 🏛️ **2026 KW CHIC Hackathon** (2026.08)
+- 🏙️ **2026 KW Hackathon** (2026.10)
 - ⚡️ **2026 ELECCON** (2026.10)
 
 ---
