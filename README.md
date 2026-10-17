@@ -50,7 +50,6 @@
 - 🏛️ **2026 KW CHIC Hackathon** (2026.08)
 - 🏦 **2026 Wooricon BougBounty** (2026.09)
 - 🏙️ **2026 KW Hackathon** (2026.10)
-- ⚡️ **2026 ELECCON** (2026.10)
 
 ---
 
