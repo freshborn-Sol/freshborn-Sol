@@ -8,6 +8,7 @@
 - 🎓 **Kwangwoon University | Information Convergence** (2026.03–Present)
 - 🐈‍⬛ **BlackCat | Kwangwoon University Information Security Club, 9th Cohort** (2026.03–Present)
 - 🛡️ **WhiteHat School 4th Cohort** (2026.06–Present)
+- 🗡️ **KNIGHTS FRONTIER 3th Cohort** (2026.11-Present)
 
 ---
 
