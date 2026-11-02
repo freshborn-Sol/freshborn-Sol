@@ -1,8 +1,8 @@
-# 👨‍💻 Hansol Ryu
+# 👨🏻‍💻 Hansol Ryu
 
 ---
 
-## 🛡️ About Me
+## 🙎🏻‍♂️ About Me
 
 - 🏫 **Gimcheon High School | 87th Graduating Class**
 - 🎓 **Kwangwoon University | Information Convergence** (2026.03–Present)
